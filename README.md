@@ -2,7 +2,7 @@
 
 - Name: Tatsuaki Watanabe
 - Occupation: Web and app front-end engineer
-- Company: Cremo inc.
+- Company: Peraichi Inc. , Cremo inc.
 
 # My Qiita works
 
